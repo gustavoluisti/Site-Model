@@ -106,6 +106,9 @@ h3 { color: #41464b; text-transform: uppercase;}
     font-weight: 700;
     margin: 0 0 30px 0;
 }
+.content-title-white h3{
+    color: #fff;
+}
 .content-title-underline {
     width: 30px;
     height: 3px;
@@ -248,6 +251,23 @@ h4.team-member-designation {
 }
 .social-icon i:hover {
     color: #34c6d3;
+}
+/*==========================================================
+                        TESTIMONIALS SPARTA
+==========================================================*/
+#testimonials-cover {
+    background-image: url("../img/bg-testimonials.jpg");
+    
+}
+#testimonials .content-box {
+    background-color: rgba(0,0,0, 0.1);
+}
+#customers-testimonials {
+    padding: 5px 0;
+}
+.testimonial img {
+    max-width: 120px;
+    margin: 0 auto;
 }
 
 
