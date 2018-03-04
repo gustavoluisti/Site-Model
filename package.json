@@ -1,0 +1,19 @@
+{
+  "name": "template_comercial",
+  "version": "1.0.0",
+  "description": "Site para proximo portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gustavoluisti/Site-Model.git"
+  },
+  "author": "Luis Gustavo Santos <spartatecnologia@gmail.com> (http://spartawebti.com.br/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gustavoluisti/Site-Model/issues"
+  },
+  "homepage": "https://github.com/gustavoluisti/Site-Model#readme"
+}
